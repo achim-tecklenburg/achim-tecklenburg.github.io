@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sitename</title>
+    <link>http://www.example.com/</link>
+    <description>Recent content on sitename</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-EN</language>
+    <managingEditor>yourname@example.com (yourname)</managingEditor>
+    <webMaster>yourname@example.com (yourname)</webMaster>
+    <copyright>(c) 2015 yourname.</copyright>
+    <lastBuildDate>Fri, 24 Nov 2017 15:57:43 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Firstpost</title>
+      <link>http://www.example.com/2017/11/24/firstpost/</link>
+      <pubDate>Fri, 24 Nov 2017 15:57:43 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>http://www.example.com/2017/11/24/firstpost/</guid>
+      <description>hallo.</description>
+    </item>
+    
+    <item>
+      <title>Offering</title>
+      <link>http://www.example.com/offering/</link>
+      <pubDate>Fri, 24 Nov 2017 15:57:39 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>http://www.example.com/offering/</guid>
+      <description>Möchten Sie besser bei Google gefunden werden? Brauchen Sie bessere Texte oder Fotos, ein schöneres Design oder einen Blog? Ist die Website zu langsam, oder soll sie neu aufgesetzt werden? → Link zu den Beispielen.
+Ich biete eine kostenlose Erstberatung an. Für gemeinnützige und wohltätige Unternehmen biete ich bei Sympathie auch kostenlose Dienstleistungen an.</description>
+    </item>
+    
+    <item>
+      <title>Home</title>
+      <link>http://www.example.com/home/</link>
+      <pubDate>Fri, 24 Nov 2017 15:57:37 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>http://www.example.com/home/</guid>
+      <description>Hier ist ein Erklärvideo, wo drinsteht wie toll ich bin. bla blkamsd asdfok öaokdf asdfkansd fpok asdfnöasod kf asdlkfn aösdkfnm asdkfn</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://www.example.com/about/</link>
+      <pubDate>Fri, 24 Nov 2017 15:57:34 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>http://www.example.com/about/</guid>
+      <description>Programmierer, Fotograf, Texter. Bin Google Zertifiziert für Adwords und Analytics und konnte schon zahlreichen Leuten und Unternehmen mit ihren Websites helfen - entweder privat, oder aus einer Anstellung heraus. Ich komme aus Hamburg, lebe seit 10 Jahren in Wien. Habe mich in diese Stadt verliebt und bin ein richtiger Wahlwiener. Ich interessiere mich für Technik und rede in meinem Podcast und in meinem Blog darüber wie wir unser Leben vereinfachen können.</description>
+    </item>
+    
+  </channel>
+</rss>
